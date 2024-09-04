@@ -1,5 +1,5 @@
-Package: ag-addins
-Title: JAG RStudio Addins
+Package: jag-addins
+Title: RStudio JAG Addins
 Version: 0.1.0
 Authors@R: person("Jeff", "Jacobs", email = "jj1088@georgetown.edu", role = c("aut", "cre"))
 Description: Provides a set of RStudio addins for JAG -- R functions that can be
